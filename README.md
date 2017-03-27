@@ -7,4 +7,5 @@ MCP23017: mcp23017.lib
 ATMEGA32U4: atmega32u4.lib  
 ISP: isp.lib   
 USB MINI 5 pin: usbmini.lib  
+WS2812B: WS2812B  
 
